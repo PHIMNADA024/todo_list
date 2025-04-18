@@ -46,7 +46,7 @@ Follow these steps to deploy the application on your local machine:
 First, clone the repository from GitHub to your local machine:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/PHIMNADA024/todo_list.git
 cd todoproject
 ```
 
