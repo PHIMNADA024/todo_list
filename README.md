@@ -47,7 +47,7 @@ First, clone the repository from GitHub to your local machine:
 
 ```bash
 git clone https://github.com/PHIMNADA024/todo_list.git
-cd todoproject
+cd todo_list
 ```
 
 This will create a local copy of the repository and navigate you into the project folder.
